@@ -2,7 +2,8 @@
 - 👀 I’m interested in music and learning something new
 - 🌱 I’m currently learning geophysics
 - 💞️ I’m looking to collaborate on with my best friends
-- 📫 How to reach me? Call or text on Whatsapp ^^
+- 📫 How to reach me? Call or text on my social media
+- Thank you!
 
 <!---
 setyalarasati/setyalarasati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
