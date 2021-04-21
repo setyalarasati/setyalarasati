@@ -1,6 +1,0 @@
-print("#/==========================================/")
-print("#/                                          /")
-print("#/             Program halo.py              /")
-print("#/    By rr.larasati.setya@mail.ugm.ac.id   /")
-print("#/                                          /")
-print("#/==========================================/")
