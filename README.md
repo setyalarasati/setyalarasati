@@ -1,11 +1,10 @@
 ## Hi there
 
-- 👋 Hi, I’m Laras!
-- 👀 I’m interested in music and learning something new
-- 🌱 I’m currently learning geophysics
-- 💞️ I’m looking to collaborate on with my best friends
-- 📫 How to reach me? Call or text on my social media
-- Thank you!
+- 👋 Hai, perkenalkan saya Larasati Setya Kusuma dari prodi Geofisika'20 dengan NIM 20/459235/PA/19896.
+- 👀 Hobi saya adalah mendengarkan lagu dan menonton anime.
+- 📫 IG : setyalarasati
+-     WA : 082133603520
+- Salam kenal dan terima kasih!
 
 <!---
 setyalarasati/setyalarasati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
