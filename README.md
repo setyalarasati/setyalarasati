@@ -1,9 +1,9 @@
-## Halo, namaku Laras!✨✨
+## Hi, it's me!✨✨
 
-- 👋 Halo, perkenalkan saya Larasati Setya Kusuma dari prodi Geofisika'20 dengan NIM 20/459235/PA/19896.
-- 🏫 Saat ini, saya sedang menempuh studi di Geofisika UGM angkatan 2020.
-- 👀 Hobi saya adalah mendengarkan lagu dan mempelajari hal baru, seperti coding.
-- 📫 Hubungi saya melalui IG : setyalarasati
+- 👋 Halo, perkenalkan aku Larasati Setya Kusuma dari prodi Geofisika'20 dengan NIM 20/459235/PA/19896.
+- 🏫 Saat ini, aku sedang menempuh studi di Geofisika UGM angkatan 2020.
+- 👀 Hobi aku adalah mendengarkan lagu dan bermain game (kokomi main nih :3)
+- 📫 Follow me on Instagram : @setyalarasati
 - 💫 Salam kenal dan terima kasih!
 
 <!---
